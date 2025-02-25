@@ -97,19 +97,6 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📂 Project Structure
-```
-facial-attendance-system/
-│── dataset/                # Stores registered face images
-│── models/                 # Pre-trained face recognition models
-│── database/               # SQLite/MySQL database for attendance
-│── gui.py                  # Tkinter GUI application
-│── app.py                  # Main face recognition script
-│── train_model.py          # Script for training the model
-│── download_model.py       # Script to fetch pre-trained models
-│── requirements.txt        # Dependencies list
-│── README.md               # Project Documentation
-```
 
 ---
 
@@ -130,12 +117,7 @@ facial-attendance-system/
    - Verify the database file exists in the `database/` folder.
    - Check for correct SQLite or MySQL configurations in the `config.py` file.
 
----
 
-## 📜 License
-This project is licensed under the **MIT License**. You are free to modify and distribute it with proper attribution.
-
----
 
 ## 🤝 Contributing
 We welcome contributions! Follow these steps:
@@ -149,13 +131,5 @@ We welcome contributions! Follow these steps:
 
 ## 📧 Contact
 For queries or support, reach out to:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-## 🌟 Show Your Support!
-If you found this project helpful, please ⭐ the repository to show your support!
-
+- **Email**: himanshusharma5908@gmail.com
 
